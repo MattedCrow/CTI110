@@ -1,0 +1,24 @@
+body {
+	background-color: powderblue;
+	background-image: url("bluestripes.png");
+    background-repeat: repeat;
+}
+
+h1 {
+	font-family: verdana;
+}
+
+main {
+	background-color: white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-right:10px;
+	height:450px;
+	width:450px;
+	overflow:auto;
+}
+
+div.contact {
+	font-size:85%;
+	text-align:right;
+}
